@@ -37,6 +37,6 @@ The following technologies were used to create this portfolio:
 - Typescript
 - SCSS
 - Framer Motion
-- Kinsta
+
 
 
