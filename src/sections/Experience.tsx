@@ -42,20 +42,19 @@ function Experience() {
       name: "EInfochips ",
       role: "Cloud Intern",
       url: "https://www.einfochips.com",
-      start: "December 2022",
-      end: "January 2023",
+      start: "Dec 2022",
+      end: "Jan 2023",
       shortDescription: [
-        "As the elected President of the ACES Departmental Club, I successfully led a team of board members and executive committee members to organize and execute multiple events throughout the year.",
-        "Additionally, I secured sponsorships from reputable brands to support our events.",
-        "Overall, it was a rewarding experience that allowed me to develop my leadership skills while contributing positively to the growth of the organization.",
+        "Responsible for managing and optimizing the Cloud Architectures, Networking, and Security aspects of the Internet of Things (IoT) devices produced by the company which helped in improving the security practices"
+        ,"Learnt AWS services like EC2, S3, Lambda, and CloudWatch to deploy and monitor the IoT devices.",
       ],
     },
     {
       name: "Engagin",
       role: "Head of Product",
       url: "https://engagin-e53c3.web.app",
-      start: "August 2021",
-      end: "August 2022",
+      start: "Aug 2021",
+      end: "Aug 2022",
       shortDescription: [
         " Developed and maintained the Frontend of the landing page website with 2+ frameworks and API's, backend using Firebase & worked with payment integration of the app",
         "Engaged in routine client follow up in an effort to maintain the quality of partner relationships while investigating any opportunities to better serve their needs in the app.",
@@ -67,7 +66,7 @@ function Experience() {
       role: "Open Source Developer",
       url: "https://gssoc.girlscript.tech",
       start: "Feb 2022",
-      end: "may 2022",
+      end: "May 2022",
       shortDescription: [
         " Got selected into GSSOC'2022 and got an opportunity to contribute to various projects. Used Git, Github and Linux",
     
