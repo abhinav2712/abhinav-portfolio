@@ -25,7 +25,7 @@ function Footer() {
   return (
     <footer>
       <Link
-        href="https://github.com/koolkishan/chat-app-react-nodejs"
+        href="https://github.com/abhinav2712"
         target="_blank"
         className="footer-link"
       >
